@@ -1,0 +1,7 @@
+streamlit
+phidata
+python-dotenv
+newspaper4k 
+lxml_html_clean
+openai
+st_copy_to_clipboard
